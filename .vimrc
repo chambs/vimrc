@@ -7,3 +7,4 @@ set softtabstop=4
 set smarttab
 set expandtab
 set autoindent
+colo slate
