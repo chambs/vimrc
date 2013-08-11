@@ -12,3 +12,4 @@ set smarttab
 set expandtab
 set autoindent
 colo slate
+syntax on
